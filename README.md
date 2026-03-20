@@ -6,7 +6,9 @@
   <a href="https://tailorsystem.netlify.app/" target="_blank">
     🌐 View Live Application
   </a>
-</p>---
+</p>
+
+---
 
 ✨ Overview
 
