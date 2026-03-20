@@ -81,18 +81,14 @@ It delivers a seamless workflow for managing clients, measurements, orders, and 
 
 ---
 
-## 🛠 Technology Foundation
+## 🛠 Technology Used
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="70" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="70" alt="Vite" />
 </p>
 
-- ⚛️ React  
-- 🔥 Firebase (Authentication & Data)  
-- ⚡ Vite  
-- 🏗️ Scalable frontend architecture  
 
 ---
 
