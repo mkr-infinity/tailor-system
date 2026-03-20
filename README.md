@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./favicon.svg" alt="Tailor Master Logo" width="90" />
+  <img src="./assets/favicon.svg" alt="Tailor Master Logo" width="90" />
 </p><h1 align="center">TAILOR MASTER</h1><p align="center">
   <i>A modern digital system redefining tailoring workflows with precision, simplicity, and control.</i>
 </p><p align="center">
