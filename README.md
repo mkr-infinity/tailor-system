@@ -25,59 +25,24 @@ It delivers a seamless workflow for managing clients, measurements, orders, and 
 
 ## ⚙️ Capabilities
 
-### 🌍 Customer Experience
-- Elegant, responsive website interface  
-- Service presentation with modern layout  
-- Direct communication via WhatsApp  
-- Smooth navigation and structured sections  
-
-### 🔐 Tailor Control Panel
-- Structured client profiles  
-- History tracking (orders & payments)  
-- Notes and lifecycle management  
-- Smart recycle system  
-
-### 📏 Measurement Architecture
-- Detailed body measurement system  
-- Custom field flexibility  
-- Historical comparison tracking  
-- Precision-focused notes  
-
-### 📦 Order Lifecycle
-- Fully defined workflow pipeline  
-- Multi-garment order handling  
-- Repeat order efficiency  
-- Delivery & trial scheduling  
-
-### 🧵 Fabric & Design Logic
-- Fabric classification and tracking  
-- Consumption estimation  
-- Reference-based tailoring  
-- Template-driven garment creation  
-
-### 💰 Billing Engine
-- Structured invoice generation  
-- Payment tracking (advance & balance)  
-- Automated billing flow  
-
-### 📊 Business Insights
-- Operational statistics  
-- Order tracking overview  
-- Revenue visibility    
-
-### ⚙️ System Flexibility
-- Theme customization  
-- Configurable measurement fields  
-- Adaptive system controls  
+- 🌍 Customer Experience → Responsive interface, WhatsApp integration, smooth navigation  
+- 🔐 Control Panel → Client profiles, order/payment history, smart recycle system  
+- 📏 Measurements → Flexible fields, precision tracking, historical comparison  
+- 📦 Orders → Defined workflow, multi-garment handling, repeat efficiency, delivery scheduling  
+- 🧵 Fabric & Design → Classification, consumption estimation, template-driven creation  
+- 💰 Billing → Invoices, advance/balance tracking, automated flow  
+- 📊 Insights → Stats, order overview, revenue visibility  
+- 🔳 Smart Access → QR-based client identification  
+- ⚙️ Flexibility → Themes, configurable fields, adaptive controls  
 
 ---
 
 ## 🎨 Design Philosophy
-- Clean and distraction-free interface  
-- Material-inspired modern UI  
-- Soft visual hierarchy with rounded layouts  
-- Smooth interaction and transitions  
-- Optimized for clarity and efficiency  
+
+- Clean, distraction-free interface  
+- Modern material-inspired UI  
+- Rounded layouts & smooth transitions  
+- Optimized for clarity and efficiency
 
 ---
 
@@ -97,20 +62,12 @@ It delivers a seamless workflow for managing clients, measurements, orders, and 
 - Restricted dashboard access  
 - Data integrity and controlled usage  
 
----
-
-## ⚠️ License
-All Rights Reserved © 2026 Mohammad Kaif Raja  
-This software is proprietary and confidential.  
-Unauthorized usage, reproduction, or distribution is strictly prohibited.  
 
 ---
 
 ## 👨‍💻 Developer
 
-<p align="center">
-  <b>Mohammad Kaif Raja</b>
-</p>
+
 
 <p align="center">
   <a href="https://mkr-infinity.github.io" target="_blank">
@@ -125,7 +82,7 @@ Unauthorized usage, reproduction, or distribution is strictly prohibited.
 </p>
 
 <p align="center">
-  <i>"A normal person from India" 🇮🇳</i>
+  <i>" A normal person from India 🇮🇳 " </i>
 </p>
 
 ---
