@@ -10,7 +10,14 @@
 
 <p align="center">
   <a href="https://tailorsystem.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View Live Application as Customer-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App"/>
+    <img src="https://img.shields.io/badge/🌐 View as a Customer-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://tailorsystem.netlify.app/login" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 View Tailor System-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App"/>
   </a>
 </p>
 
